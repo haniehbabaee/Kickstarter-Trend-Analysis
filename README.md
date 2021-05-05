@@ -6,3 +6,6 @@ I organized and analyzed a database of 4,000 past projects in order to uncover a
 
 
 <img width="1011" alt="CategoryStats" src="https://user-images.githubusercontent.com/70447525/116479937-76dc5a00-a84e-11eb-8ac5-784d4ec960be.png">
+
+<img width="973" alt="LaunchDateOutcomes" src="https://user-images.githubusercontent.com/70447525/117214493-ea401780-adca-11eb-815e-656b6a967473.png">
+
