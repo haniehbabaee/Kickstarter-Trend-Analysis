@@ -21,7 +21,8 @@ Part 2: What are some limitations of this dataset?
 
      1. There is no indication of ROI (Return of Investment) for each campaign.
      2. what percentage of the total campaign cost will be covered by the pledged amount.
-     3. There is no information regarding who is behind each campaign so there can be data about the success rate of that person or group and relation to the future success of their other campaigns.
+     3. There is no information regarding who is behind each campaign so there can be data about the success rate of that person or 
+     group and relation to the future success of their other campaigns.
  
  
 Part3: What are some other possible tables and/or graphs that we could create?
