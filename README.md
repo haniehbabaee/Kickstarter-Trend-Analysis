@@ -11,12 +11,12 @@ I organized and analyzed a database of 4,000 past projects in order to uncover a
 
 By analyzing data with Excel, the question below are answered:
 Part 1: Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-1.     Most of the Kickstarter campaigns are in the US.
-2.    All the Kickstarter campaigns in the fields of Documentary and Rock Music are being successful.
-3.   In December, the number of campaigns decreases. Successful and failed campaigns count tend to be equal.
+     1. Most of the Kickstarter campaigns are in the US.
+     2. All the Kickstarter campaigns in the fields of Documentary and Rock Music are being successful.
+     3. In December, the number of campaigns decreases. Successful and failed campaigns count tend to be equal.
  
 Part 2: What are some limitations of this dataset?
-1.      There is no indication of ROI (Return of Investment) for each campaign.
+1. There is no indication of ROI (Return of Investment) for each campaign.
 2.      what percentage of the total campaign cost will be covered by the pledged amount.
 3.      There is no information regarding who is behind each campaign so there can be data about the success rate of that person or group and relation to the future success of their other campaigns.
  
