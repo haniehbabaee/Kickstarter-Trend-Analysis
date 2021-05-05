@@ -9,7 +9,7 @@ I organized and analyzed a database of 4,000 past projects in order to uncover a
 
 <img width="973" alt="LaunchDateOutcomes" src="https://user-images.githubusercontent.com/70447525/117214493-ea401780-adca-11eb-815e-656b6a967473.png">
 
-By analyzing data with Excel, the question below are answered:
+By analyzing data with Excel, the questions below are answered:
 
 Part 1: Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
