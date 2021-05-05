@@ -10,7 +10,9 @@ I organized and analyzed a database of 4,000 past projects in order to uncover a
 <img width="973" alt="LaunchDateOutcomes" src="https://user-images.githubusercontent.com/70447525/117214493-ea401780-adca-11eb-815e-656b6a967473.png">
 
 By analyzing data with Excel, the question below are answered:
+
 Part 1: Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+
      1. Most of the Kickstarter campaigns are in the US.
      2. All the Kickstarter campaigns in the fields of Documentary and Rock Music are being successful.
      3. In December, the number of campaigns decreases. Successful and failed campaigns count tend to be equal.
