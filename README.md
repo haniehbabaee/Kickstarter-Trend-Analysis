@@ -26,5 +26,5 @@ Part 2: What are some limitations of this dataset?
  
  
 Part3: What are some other possible tables and/or graphs that we could create?
-1.      Trends of the number of applications per year for Kickstarters.
-2.  A table that summarizes goals and pledged for failed projects per category: This will show at what stage different campaign categories usually fail, so Kickstarter can adopt the goal, based on that.
+     1. Trends of the number of applications per year for Kickstarters.
+     2. A table that summarizes goals and pledged for failed projects per category: This will show at what stage different campaign categories usually fail, so Kickstarter can adopt the goal, based on that.
